@@ -1,0 +1,97 @@
+<mxfile host="65bd71144e">
+    <diagram id="FAQ-gkQKl_8Y6aktIYQe" name="ページ-1">
+        <mxGraphModel dx="2633" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="_ITecKlRP_L8wjW9qcyF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;朝勝つアプリ&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="150" x="30" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="0cqw3T82hgHOsyBkbNEC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="アプリをダウンロードする" vertex="1">
+                    <mxGeometry height="60" width="120" x="45" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="0cqw3T82hgHOsyBkbNEC-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="アラームを設定する" vertex="1">
+                    <mxGeometry height="60" width="120" x="315" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="アラームを鳴らす" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="アラームを止める" vertex="1">
+                    <mxGeometry height="60" width="120" x="585" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="起床時間を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="855" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="起床時間を入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="315" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アラーム音を設定する" vertex="1">
+                    <mxGeometry height="60" width="120" x="315" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="曜日を設定する" vertex="1">
+                    <mxGeometry height="60" width="120" x="315" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="朝弱い人" vertex="1">
+                    <mxGeometry height="30" width="80" x="50" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="準備する" vertex="1">
+                    <mxGeometry height="60" width="120" x="45" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="起きる" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="855" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="設定時間に通知する" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="計算問題を解く" vertex="1">
+                    <mxGeometry height="60" width="120" x="585" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ミッションを達成する" vertex="1">
+                    <mxGeometry height="60" width="120" x="585" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="今日の起床時間を表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="855" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="過去の記憶を表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="855" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-18" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="33" y="290" as="sourcePoint"/>
+                        <mxPoint x="975" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-20" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="39.5" y="370" as="sourcePoint"/>
+                        <mxPoint x="980.5" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-21" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="39.5" y="450" as="sourcePoint"/>
+                        <mxPoint x="980.5" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-22" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="できたらやる" vertex="1">
+                    <mxGeometry height="60" width="90" x="-60" y="452" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-23" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="設定" vertex="1">
+                    <mxGeometry height="60" width="90" x="-60" y="376" as="geometry"/>
+                </mxCell>
+                <mxCell id="EQ3PahPEpyMwLzshzf9a-24" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="60" width="90" x="-60" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="mRDe_i9nximO8_5CNl9p-2" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="39.5" y="520" as="sourcePoint"/>
+                        <mxPoint x="980.5" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
